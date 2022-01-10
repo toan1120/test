@@ -413,9 +413,11 @@ section#contact.contact{
         padding: 10px 10px;        
     }
 }
-@media (max-width: 1275px){
+@media (max-width: 1116px){
     .max-width{       
         padding: 0 10px;
+        max-width: 1110px;
+
     } 
     .pages .pages-list{
         margin: auto;    
@@ -424,8 +426,8 @@ section#contact.contact{
         justify-content: space-between; 
     }
     .pages .pages-list img{
-        height:330px;
-        width: 300px;
+        height:350px;
+        width: 320px;
         object-fit: cover;
         border-radius: 3px;
     }
@@ -447,7 +449,7 @@ section#contact.contact{
     }
     .product .product-list img{  
         height:300px;
-        width: 280px;
+        width: 250px;
         object-fit: cover;
         border-radius: 3px;
     }
@@ -458,7 +460,7 @@ section#contact.contact{
     }
 }
 
-@media (max-width: 417px){
+@media (max-width: 500px){
     .max-width{       
         padding: 0 10px;
     } 
