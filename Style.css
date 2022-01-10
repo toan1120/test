@@ -371,7 +371,7 @@ section#contact.contact{
     color: #737373;
 }
 
-@media (max-width: 1106px){
+/* @media (max-width: 1106px){
     .menu{
         display: block;        
     }
@@ -397,6 +397,6 @@ section#contact.contact{
     .max-width{
         padding: 0 50px;
     }
-}
+} */
 
 
