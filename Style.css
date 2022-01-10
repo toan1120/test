@@ -13,7 +13,7 @@ section{
     padding: 60px 0;
 }
 .max-width{
-    max-width: 1500px;
+    max-width: 1300px;
     padding: 0 80px;
     margin: auto;
 }
@@ -146,8 +146,8 @@ h1{
     
 }
 .pages .pages-list img{
-    height:400px;
-    width: 430px;
+    height:390px;
+    width: 360px;
     object-fit: cover;
     border-radius: 3px;
 }
@@ -234,7 +234,7 @@ section#product.product{
 }
 .product .product-list img{
     height:300px;
-    width: 310px;
+    width: 270px;
     object-fit: cover;
     border-radius: 3px;
     cursor: pointer;
@@ -424,8 +424,8 @@ section#contact.contact{
         justify-content: space-between; 
     }
     .pages .pages-list img{
-        height:380px;
-        width: 380px;
+        height:330px;
+        width: 300px;
         object-fit: cover;
         border-radius: 3px;
     }
